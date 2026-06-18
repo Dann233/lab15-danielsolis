@@ -1,0 +1,98 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80."
+  },
+  {
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1991,
+    "sello": "DGC",
+    "pistas": 12,
+    "imagen": "nevermind.avif",
+    "slug": "nevermind",
+    "resumen": "El album que llevo el grunge al mainstream mundial.",
+    "descripcion": "Segundo album de Nirvana que cambio el panorama del rock alternativo con canciones como Smells Like Teen Spirit."
+  },
+  {
+    "titulo": "Kind of Blue",
+    "artista": "Miles Davis",
+    "genero": "Jazz",
+    "anio": 1959,
+    "sello": "Columbia",
+    "pistas": 5,
+    "imagen": "kind-of-blue.avif",
+    "slug": "kind-of-blue",
+    "resumen": "El album de jazz mas influyente y vendido de todos los tiempos.",
+    "descripcion": "Obra maestra de Miles Davis que introdujo el jazz modal y reunio a un quinteto legendario de musicos."
+  },
+  {
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Rock",
+    "anio": 1980,
+    "sello": "Atlantic",
+    "pistas": 10,
+    "imagen": "back-in-black.avif",
+    "slug": "back-in-black",
+    "resumen": "Uno de los albumes de rock mas vendidos de la historia.",
+    "descripcion": "Primer album de AC/DC con el vocalista Brian Johnson, grabado como tributo al fallecido Bon Scott."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "slug": "abbey-road",
+    "resumen": "El penultimo album de los Beatles y uno de sus trabajos mas celebrados.",
+    "descripcion": "Album de los Beatles conocido por su medley final y por la iconica foto de portada en el cruce de Abbey Road."
+  },
+  {
+    "titulo": "21",
+    "artista": "Adele",
+    "genero": "Pop",
+    "anio": 2011,
+    "sello": "XL Recordings",
+    "pistas": 11,
+    "imagen": "21.avif",
+    "slug": "21",
+    "resumen": "El album que convirtio a Adele en una superestrella global.",
+    "descripcion": "Segundo album de Adele, inspirado en una ruptura amorosa, que incluye exitos como Rolling in the Deep y Someone Like You."
+  },
+  {
+    "titulo": "A Love Supreme",
+    "artista": "John Coltrane",
+    "genero": "Jazz",
+    "anio": 1965,
+    "sello": "Impulse!",
+    "pistas": 4,
+    "imagen": "a-love-supreme.avif",
+    "slug": "a-love-supreme",
+    "resumen": "La obra cumbre de John Coltrane, una suite espiritual en cuatro partes.",
+    "descripcion": "Album conceptual de John Coltrane considerado una de las grabaciones mas importantes en la historia del jazz."
+  },
+  {
+    "titulo": "In Utero",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1993,
+    "sello": "DGC",
+    "pistas": 12,
+    "imagen": "in-utero.avif",
+    "slug": "in-utero",
+    "resumen": "El ultimo album de estudio de Nirvana, mas crudo y experimental.",
+    "descripcion": "Tercer y ultimo album de estudio de Nirvana, producido por Steve Albini, con un sonido deliberadamente mas abrasivo y directo."
+  }
+]
