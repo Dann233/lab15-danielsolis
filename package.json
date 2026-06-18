@@ -1,7 +1,7 @@
 {
-  "name": "lab14-danielsolis",
+  "name": "lab15-danielsolis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Suite de pruebas con Vitest y supertest para la API REST DiscoStore",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dann233/lab14-danielsolis.git"
+    "url": "git+https://github.com/Dann233/lab15-danielsolis.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Dann233/lab14-danielsolis/issues"
+    "url": "https://github.com/Dann233/lab15-danielsolis/issues"
   },
-  "homepage": "https://github.com/Dann233/lab14-danielsolis#readme",
+  "homepage": "https://github.com/Dann233/lab15-danielsolis#readme",
   "dependencies": {
     "express": "^5.2.1",
     "zod": "^4.4.3"
